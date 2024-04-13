@@ -1,0 +1,15 @@
+{
+	"name": "super-mario-bros",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"dev": "PORT=5000 serve ./public",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"serve": "^14.2.1"
+	}
+}
